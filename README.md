@@ -1,2 +1,2 @@
 # Tatins_Pizza
-Tienda virtual de comprar pizzas online. Realizado con Django y PostgreSQL. Documentado
+Tienda virtual de venta de pizzas. Realizado con Django y PostgreSQL. Documentado
